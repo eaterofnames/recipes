@@ -1,11 +1,13 @@
 # Korean Marinated Oyster Mushrooms
 
+Some really tasty mushrooms for topping ramen, or just on top of rice. Leftovers of this recipe are a killer add to a salad, just cut them into smaller strips before adding to one.
+
 ## Ingredients
 
 - 1 lb King Oyster Mushrooms
 - 4 garlic cloves
 - 2 tbsp dark soy sauce
-- Home made chili oil
+- Home made [chili oil](chiliOil.md)
 - 2 tsp gochugaru (qty depends on how hot your chili oil is)
 
 ## Instructions
