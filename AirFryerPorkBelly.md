@@ -1,7 +1,6 @@
 # Air Fryer Pork Belly
 
 Written by Connie Lam, (@a.bite.of.life,  <life.of.bite.a@gmail.com>), 2022.
-description
 
 ## Ingredients
 
